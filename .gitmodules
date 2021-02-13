@@ -1,0 +1,24 @@
+[submodule "cartographer"]
+	path = cartographer
+	url = https://gitlab.com/Df458/cartographer.git
+[submodule "cartographer_mtg"]
+	path = cartographer_mtg
+	url = https://gitlab.com/Df458/cartographer-mtg.git
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "color_tools"]
+	path = color_tools
+	url = https://github.com/tiborvansa/minetest-color_tools
+[submodule "typographer"]
+	path = typographer
+	url = https://github.com/tiborvansa/minetest-typographer
+[submodule "hanshold_redo"]
+	path = hanshold_redo
+	url = https://github.com/t-affeldt/handholds_redo.git
+[submodule "hiking"]
+	path = hiking
+	url = https://gitlab.com/h2mm/hiking.git
+[submodule "slap_rotate"]
+	path = slap_rotate
+	url = https://github.com/AspireMint/slap_rotate.git
