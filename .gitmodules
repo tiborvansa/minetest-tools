@@ -25,3 +25,18 @@
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib.git
+[submodule "backpacks"]
+	path = backpacks
+	url = https://github.com/everamzah/backpacks
+[submodule "boost_cart"]
+	path = boost_cart
+	url = https://github.com/SmallJoker/boost_cart
+[submodule "trash_can"]
+	path = trash_can
+	url = https://github.com/minetest-mods/trash_can
+[submodule "woodcutting"]
+	path = woodcutting
+	url = https://github.com/minetest-mods/woodcutting
+[submodule "hopper"]
+	path = hopper
+	url = https://github.com/minetest-mods/hopper
