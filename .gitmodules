@@ -40,3 +40,12 @@
 [submodule "hopper"]
 	path = hopper
 	url = https://github.com/minetest-mods/hopper
+[submodule "engrave"]
+	path = engrave
+	url = https://github.com/orwell96/engrave/
+[submodule "toolranks"]
+	path = toolranks
+	url = https://github.com/lisacvuk/minetest-toolranks
+[submodule "realcompass"]
+	path = realcompass
+	url = https://github.com/kestral246/realcompass
